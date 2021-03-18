@@ -9,8 +9,8 @@ body {
 }
 #map {
   margin: 100px auto 20px;
-  width: 1000px;
-  height: 600px;
+  width: 60vw;
+  height: 60vh;
   position: relative;
   border: 1px solid red;
   background-size: 100% 100%;
